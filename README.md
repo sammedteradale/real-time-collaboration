@@ -11,6 +11,16 @@ CollabSpace is a live multi-user collaboration workspace built with MongoDB, Exp
 - MongoDB persistence when `MONGODB_URI` is available
 - In-memory fallback for quick demos
 
+## Output Screenshots
+
+### Desktop View
+
+![CollabSpace desktop screenshot](screenshots/desktop-home.png)
+
+### Mobile View
+
+![CollabSpace mobile screenshot](screenshots/mobile-home.png)
+
 ## Run Locally
 
 ```bash
